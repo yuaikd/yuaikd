@@ -9,7 +9,7 @@ Focused on business process automation with LLM agents and data analytics.
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=150458)
 
 ## ⭐ Featured Project:
-### [Agent AI - Analiza trendów branżowych](https://github.com/yuaikd/energy-trends-agent)
+### [AI Agent - Industry Trend Analysis](https://github.com/yuaikd/energy-trends-agent)
 Automated monitoring of the energy sector and renewable energy sources.
 
 <details>
