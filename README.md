@@ -1,5 +1,5 @@
-## 👾 O mnie 
-Interesuję się automatyzacją procesów biznesowych z wykorzystaniem systemów agentowych (LLM) oraz analityce danych. Buduję inteligentne narzędzia, które przekształcają nieustrukturyzowane dane w gotowe raporty i konkretne wnioski.
+## 👾 About me
+Focused on business process automation with LLM agents and data analytics.
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB) 
@@ -8,60 +8,46 @@ Interesuję się automatyzacją procesów biznesowych z wykorzystaniem systemów
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=150458)
 
-## ⭐ Wyróżniony Projekt
+## ⭐ Featured Project:
 ### [Agent AI - Analiza trendów branżowych](https://github.com/yuaikd/energy-trends-agent)
-Agent AI, który automatycznie śledzi sektor energetyczny (np. Orlen, OZE).
+Automated monitoring of the energy sector and renewable energy sources.
 
 <details>
-  <summary>Kliknij, aby zobaczyć raport wygenerowany 23.04.2026 </summary>
+  <summary>See full raport 23.04.2026 </summary>
 
   ```text
 ============================================================
-      Raport trendów branżowych
+Industry Trends Report
 ============================================================
+Main trend:
+Poland is experiencing an intensification of investments in nuclear energy and renewable energy sources (RES), supported by government programs and new regulations. The growing importance of nuclear technologies and the integration of RES into energy management systems indicate a drive toward sustainable development and national energy stability.
 
-Główny trend:
-W Polsce następuje intensyfikacja inwestycji w energetykę jądrową oraz odnawialne źródła energii (OZE), co jest wspierane przez programy rządowe i nowe regulacje. Wzrost znaczenia technologii jądrowych oraz integracja OZE w systemy zarządzania energią wskazują na dążenie do zrównoważonego rozwoju i stabilności energetycznej kraju.
-
-------------------------------------------------------------
-Analiza artykułów:
-------------------------------------------------------------
-
-[1] Tytuł: Ta polska spółka dostanie pieniądze na przygotowanie do udziału w budowie elektrowni atomowej
-    Sentyment: Pozytywny
-    Słowa kluczowe: finansowanie, elektrownia jądrowa, Mostostal Kielce
-    Streszczenie: Mostostal Kielce otrzyma 13,7 mln zł na przygotowanie do budowy pierwszej elektrowni jądrowej w Polsce w ramach programu ARP 'Atom bez barier'. Inwestycja ma na celu wzmocnienie krajowego przemysłu oraz dostosowanie zakładu do standardów sektora jądrowego, co pozwoli firmie na skuteczną konkurencję na rynkach międzynarodowych.
-------------------------------
-
-[2] Tytuł: Jak przystąpić do wirtualnej elektrowni OZE?
-    Sentyment: Pozytywny
-    Słowa kluczowe: Wirtualna Elektrownia, OZE, UNIMOT
-    Streszczenie: Wirtualna Elektrownia UNIMOT integruje instalacje OZE, umożliwiając ich zarządzanie jak jedną dużą elektrownią. System optymalizuje sprzedaż energii, co pozwala właścicielom instalacji na stabilne przychody i minimalizację ryzyka finansowego, a także zwiększa efektywność kontraktacji na rynku energii.
-------------------------------
-
-[3] Tytuł: Europa przyznaje się do epokowego błędu. Polska przed decyzją
-    Sentyment: Neutralny
-    Słowa kluczowe: energetyka jądrowa, Polska, decyzje administracyjne
-    Streszczenie: Ursula von der Leyen przyznała, że Europa popełniła błąd, odchodząc od energetyki jądrowej, co w Polsce prowadzi do budowy pierwszej elektrowni jądrowej w Choczewie. Wybór technologii dla drugiej elektrowni jest obecnie kwestią polityczno-administracyjną, a eksperci podkreślają potrzebę dywersyfikacji technologii jądrowych.
-------------------------------
-
-[4] Tytuł: Jest projekt noweli obejmujący pracowników prywatnych kopalń system osłon
-    Sentyment: Neutralny
-    Słowa kluczowe: nowelizacja, górnictwo, wsparcie dla pracowników
-    Streszczenie: Projekt nowelizacji ustawy o górnictwie węgla kamiennego ma na celu zapewnienie równego dostępu do świadczeń osłonowych dla pracowników prywatnych kopalń. Nowe przepisy umożliwią im korzystanie z urlopów górniczych i odpraw pieniężnych po przeniesieniu do spółek państwowych, co ma na celu łagodzenie skutków likwidacji kopalń.
-------------------------------
-
-[5] Tytuł: "Paląca potrzeba" w energetyce. Chodzi o systemy wsparcia
-    Sentyment: Neutralny
-    Słowa kluczowe: systemy wsparcia, OZE, dekarbonizacja
-    Streszczenie: Renata Mroczek z URE podkreśliła potrzebę analizy systemów wsparcia dla OZE, aby ocenić, które technologie powinny być wspierane. Wskazała na konieczność stabilności regulacyjnej oraz wsparcia publicznego dla projektów dekarbonizacyjnych, które są kluczowe dla osiągnięcia celów klimatycznych.
-------------------------------
-
+Article analysis:
+[1] Title: This Polish company will receive funds to prepare for participation in the construction of a nuclear power plant
+Sentiment: Positive
+Keywords: financing, nuclear power plant, Mostostal Kielce
+Summary: Mostostal Kielce will receive PLN 13.7 million to prepare for the construction of Poland's first nuclear power plant under the ARP 'Atom without barriers' program. The investment aims to strengthen the national industry and adapt the plant to nuclear sector standards, allowing the company to compete effectively on international markets.
+[2] Title: How to join a virtual RES power plant?
+Sentiment: Positive
+Keywords: Virtual Power Plant, RES, UNIMOT
+Summary: The UNIMOT Virtual Power Plant integrates RES installations, enabling them to be managed as one large power plant. The system optimizes energy sales, allowing installation owners to achieve stable revenues and minimize financial risk, while also increasing contracting efficiency on the energy market.
+[3] Title: Europe admits to an epochal error. Poland faces a decision
+Sentiment: Neutral
+Keywords: nuclear energy, Poland, administrative decisions
+Summary: Ursula von der Leyen admitted that Europe made a mistake by moving away from nuclear energy, which in Poland is leading to the construction of the first nuclear power plant in Choczewo. The choice of technology for the second power plant is currently a political and administrative issue, and experts emphasize the need for diversification of nuclear technologies.
+[4] Title: There is a draft amendment covering private mine workers with a social safety net
+Sentiment: Neutral
+Keywords: amendment, mining, employee support
+Summary: The draft amendment to the hard coal mining act aims to ensure equal access to protective benefits for private mine workers. New regulations will enable them to use mining leaves and severance payments after transferring to state-owned companies, which aims to mitigate the effects of mine closures.
+[5] Title: "Burning need" in energy. It’s about support systems
+Sentiment: Neutral
+Keywords: support systems, RES, decarbonization
+Summary: Renata Mroczek from the Energy Regulatory Office (URE) emphasized the need to analyze support systems for RES to assess which technologies should be supported. She pointed to the need for regulatory stability and public support for decarbonization projects, which are key to achieving climate goals.
 ```
 
 </details>
 
-## 📫 Znajdziesz mnie tutaj:
+## 📫 You will find me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-tomczyk-56843038a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igortom7@gmail.com)
